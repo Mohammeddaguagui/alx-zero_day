@@ -1,2 +1,2 @@
-My first reaadme
-aloo lokaaaa
+My first readme
+README update from GitHub.com.
